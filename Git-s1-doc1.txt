@@ -1,1 +1,2 @@
 Este es primer documento GIT para la semana 1
+Este es primer documento GIT para la semana 1 y se le realiza una modificación
